@@ -1,0 +1,7 @@
+-----Ohayou that`s the Hello World application!-----
+I`m in the 1st group.
+My full name:   Chyruk Dmytro
+Here is my email:       dchiruk@gmail.com
+GitHub repository link: https://github.com/DmitriyChiruk/GL_BC_Task1
+*But actually it`s private, so contact me via email or Slack*
+GDrive folder: https://drive.google.com/drive/folders/1fFpwTELhp00AJ0rWe64WMlF9NiGDMaqy?usp=sharing
