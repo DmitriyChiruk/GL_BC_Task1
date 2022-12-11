@@ -1,0 +1,28 @@
+-----Task 2-----
+Variant 5
+How much iterations would you like to have? 5
+Please, enter alpha value: 3.14
+your alpha is 3.140000
+z1(alpha) = 1.999992;
+z1(alpha) = 1.999992;
+------------------------------------
+Please, enter alpha value: 12.42
+your alpha is 12.420000
+z1(alpha) = 1.936637;
+z1(alpha) = 1.936637;
+------------------------------------
+Please, enter alpha value: 0.987
+your alpha is 0.987000
+z1(alpha) = 0.396121;
+z1(alpha) = 0.396121;
+------------------------------------
+Please, enter alpha value: 1
+your alpha is 1.000000
+z1(alpha) = 0.377148;
+z1(alpha) = 0.377148;
+------------------------------------
+Please, enter alpha value: 15.67
+your alpha is 15.670000
+z1(alpha) = 1.995681;
+z1(alpha) = 1.995681;
+------------------------------------
