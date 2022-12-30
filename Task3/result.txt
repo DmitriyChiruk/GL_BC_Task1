@@ -1,0 +1,49 @@
+Book name:              Harry Potter and the Philosopher`s stone
+Price:                  15.00$
+Number of pages:        223
+Language:               English
+Weight:                 0.446kg
+Year:                   1997
+------------------------------------------------------
+
+Book name:              Harry Potter and the Chamber of secrets
+Price:                  25.00$
+Number of pages:        251
+Language:               English
+Weight:                 0.512kg
+Year:                   1998
+------------------------------------------------------
+
+Book name:              Harry Potter and the Prisoner of Azkaban
+Price:                  32.00$
+Number of pages:        317
+Language:               English
+Weight:                 0.575kg
+Year:                   1999
+------------------------------------------------------
+
+Book name:              Harry Potter and the Goblet of fire
+Price:                  35.00$
+Number of pages:        636
+Language:               English
+Weight:                 0.893kg
+Year:                   2000
+------------------------------------------------------
+
+Book name:              Harry Potter and the Order of Phoenix
+Price:                  35.00$
+Number of pages:        766
+Language:               English
+Weight:                 0.944kg
+Year:                   2003
+------------------------------------------------------
+
+Book name:              Harry Potter and the Half-Blood prince
+Price:                  38.00$
+Number of pages:        607
+Language:               English
+Weight:                 0.884kg
+Year:                   2005
+------------------------------------------------------
+
+Press any key to continue . . .

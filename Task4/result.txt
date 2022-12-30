@@ -1,0 +1,22 @@
+1 1 1 1 1
+1 0 0 0 1
+1 0 1 0 8
+1 0 1 1 1
+1 7 1 1 1
+
+Start position: (5, 2)
+direction: (-1, 0)
+new position: (4, 2)
+direction: (-1, 0)
+new position: (3, 2)
+direction: (-1, 0)
+new position: (2, 2)
+direction: (0, 1)
+new position: (2, 3)
+direction: (0, 1)
+new position: (2, 4)
+direction: (1, 0)
+new position: (3, 4)
+direction: (0, 1)
+new position: (3, 5)
+Press any key to continue . . .
