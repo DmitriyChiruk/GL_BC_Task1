@@ -1,8 +1,10 @@
 #include "Book.h"
 
-void BookInit(struct Book* this,  char* name,  float price,
-               unsigned int pages,  char* language, 
-               float weight,  unsigned int year)
+void BookInit(struct Book* this,     char*        name,
+              float        price,    unsigned int pages,
+              char*        language, float        weight,
+              unsigned int year
+              )
 {
     this->name =     name;
     this->price =    price;
@@ -14,7 +16,7 @@ void BookInit(struct Book* this,  char* name,  float price,
     this->next =     NULL;
 }
 
-void BookPrint( struct Book* this)
+void BookPrint(struct Book* this)
 {
     printf("Book name: \t\t%s\n",     this->name);
     printf("Price: \t\t\t%.2f$\n",    this->price);
